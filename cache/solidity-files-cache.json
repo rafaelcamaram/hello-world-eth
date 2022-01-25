@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/rafaelcamara/Documents/study/blockchain/hello-world/contracts/HelloWorld.sol": {
+      "lastModificationDate": 1643129730609,
+      "contentHash": "35cbbc6a6edd3bc5c00081e97f035fac",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.3"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    }
+  }
+}
